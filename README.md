@@ -28,7 +28,7 @@
 |--------|-------------|------|
 | **OS Lab 2025** | Exercises & hands-on tasks for OS subject | C |
 | **ADS Lab 25** | Data structure & algorithm implementations | C++ |
-| *(More coming soon…)* | | |
+| **project** | Simple project | C |
 
 ⭐ *Planning new projects:*  
 `File System Simulation` • `Shell Script Automation` • `Simple Chat App (Socket)`  
