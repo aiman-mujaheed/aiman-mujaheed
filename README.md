@@ -60,4 +60,5 @@
 
 ---
 > *"Every expert was once a beginner — the most important thing is to keep building."*
+<br/>
 > *"We learn from failure, not from succes"*
