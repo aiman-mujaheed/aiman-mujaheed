@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Aiman!
 
-<!--
-**aiman-mujaheed/aiman-mujaheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Currently studying **Computer Science / IT**
+- 💻 Interested in **Programming, Problem Solving, OS, and Algorithms**
+- 📚 Always learning and exploring new technologies
+- 🌱 Working on improving my Git, C/C++, and Linux skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** C, C++, Java, Python (basic)  
+**Tools:** Git, VS Code, Linux (Ubuntu), GCC  
+
+---
+
+## 💼 Projects
+
+| Project | Description | Language |
+|---------|-------------|-----------|
+| OS Lab 2025 | OS-related exercises and codes | C |
+| ADS Lab 25 | Algorithms & Data Structures codes | C++ |
+
+> *(More projects coming — stay tuned!)*
+
+---
+
+## 📊 GitHub Stats
+
+![Aiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiman-mujaheed&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aiman-mujaheed&layout=compact)
+
+---
+
+## 📫 Contact Me
+
+- Email: **your email here**
+- LinkedIn: *coming soon*
