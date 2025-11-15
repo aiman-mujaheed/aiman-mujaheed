@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aiman!
 
 ## 🚀 About Me
-- 🎓 Currently studying **Computer Science / IT**
+- 🎓 Currently studying **Computer Engineering**
 - 💻 Interested in **Programming, Problem Solving, OS, and Algorithms**
 - 📚 Always learning and exploring new technologies
 - 🌱 Working on improving my Git, C/C++, and Linux skills
@@ -35,5 +35,5 @@
 
 ## 📫 Contact Me
 
-- Email: **your email here**
+- Email: **wanaimanalmujaheed@gmail.com**
 - LinkedIn: *coming soon*
